@@ -1,0 +1,106 @@
+2026-10-16 15:25:38,805 DEBUG hs80.device: >> battery                  02 09 02 0f (64 B)
+2026-10-16 15:25:38,837 DEBUG hs80.device: << battery                  01 01 02 00 ae 01 00 00
+2026-10-16 15:25:38,856 DEBUG hs80.device: >> charge state             02 09 02 10 (64 B)
+2026-10-16 15:25:38,884 DEBUG hs80.device: << charge state             01 01 02 00 02 00 00 00
+15:25:38  #1    ok        43.0% not charging            170 ms  chg_raw=2
+2026-10-16 15:25:48,929 DEBUG hs80.device: >> battery                  02 09 02 0f (64 B)
+2026-10-16 15:25:48,953 DEBUG hs80.device: << battery                  01 01 02 00 ae 01 00 00
+2026-10-16 15:25:48,988 DEBUG hs80.device: >> charge state             02 09 02 10 (64 B)
+2026-10-16 15:25:49,013 DEBUG hs80.device: << charge state             01 01 02 00 01 00 00 00
+15:25:49  #2    ok        43.0% charging                108 ms  chg_raw=1
+2026-10-16 15:25:59,025 DEBUG hs80.device: << drained                  01 01 02 00 ae 01 00 00
+2026-10-16 15:25:59,025 DEBUG hs80.device: << drained                  01 01 02 00 01 00 00 00
+2026-10-16 15:25:59,025 DEBUG hs80.device: << drained                  01 01 0d 01 00 00 00 00
+2026-10-16 15:25:59,057 DEBUG hs80.device: >> battery                  02 09 02 0f (64 B)
+2026-10-16 15:25:59,088 DEBUG hs80.device: << battery                  01 01 02 00 ae 01 00 00
+2026-10-16 15:25:59,108 DEBUG hs80.device: >> charge state             02 09 02 10 (64 B)
+2026-10-16 15:25:59,132 DEBUG hs80.device: << charge state             01 01 02 00 01 00 00 00
+15:25:59  #3    ok        43.0% charging                108 ms  chg_raw=1
+2026-10-16 15:26:09,168 DEBUG hs80.device: >> battery                  02 09 02 0f (64 B)
+2026-10-16 15:26:09,193 DEBUG hs80.device: << battery                  01 01 02 00 ae 01 00 00
+2026-10-16 15:26:09,228 DEBUG hs80.device: >> charge state             02 09 02 10 (64 B)
+2026-10-16 15:26:09,252 DEBUG hs80.device: << charge state             01 01 02 00 01 00 00 00
+15:26:09  #4    ok        43.0% charging                110 ms  chg_raw=1
+2026-10-16 15:26:19,254 DEBUG hs80.device: << drained                  01 00 12 00 00 00 00 00
+2026-10-16 15:26:19,254 DEBUG hs80.device: << drained                  01 01 12 00 00 00 00 00
+2026-10-16 15:26:19,285 DEBUG hs80.device: >> battery                  02 09 02 0f (64 B)
+2026-10-16 15:26:19,312 DEBUG hs80.device: << battery                  01 01 02 00 ae 01 00 00
+2026-10-16 15:26:19,333 DEBUG hs80.device: >> charge state             02 09 02 10 (64 B)
+2026-10-16 15:26:19,356 DEBUG hs80.device: << charge state             01 01 02 00 01 00 00 00
+15:26:19  #5    ok        43.0% charging                108 ms  chg_raw=1
+2026-10-16 15:26:29,399 DEBUG hs80.device: >> battery                  02 09 02 0f (64 B)
+2026-10-16 15:26:29,428 DEBUG hs80.device: << battery                  01 01 02 00 cc 01 00 00
+2026-10-16 15:26:29,448 DEBUG hs80.device: >> charge state             02 09 02 10 (64 B)
+2026-10-16 15:26:29,473 DEBUG hs80.device: << charge state             01 01 02 00 01 00 00 00
+15:26:29  #6    ok        46.0% charging                 93 ms  chg_raw=1
+2026-10-16 15:26:39,481 DEBUG hs80.device: << drained                  01 00 12 00 00 00 00 00
+2026-10-16 15:26:39,481 DEBUG hs80.device: << drained                  01 01 12 00 00 00 00 00
+2026-10-16 15:26:39,512 DEBUG hs80.device: >> battery                  02 09 02 0f (64 B)
+2026-10-16 15:26:39,540 DEBUG hs80.device: << battery                  01 01 02 00 cc 01 00 00
+2026-10-16 15:26:39,559 DEBUG hs80.device: >> charge state             02 09 02 10 (64 B)
+2026-10-16 15:26:39,588 DEBUG hs80.device: << charge state             01 01 02 00 01 00 00 00
+15:26:39  #7    ok        46.0% charging                109 ms  chg_raw=1
+2026-10-16 15:26:49,624 DEBUG hs80.device: >> battery                  02 09 02 0f (64 B)
+2026-10-16 15:26:49,652 DEBUG hs80.device: << battery                  01 01 02 00 cc 01 00 00
+2026-10-16 15:26:49,672 DEBUG hs80.device: >> charge state             02 09 02 10 (64 B)
+2026-10-16 15:26:49,696 DEBUG hs80.device: << charge state             01 01 02 00 01 00 00 00
+15:26:49  #8    ok        46.0% charging                108 ms  chg_raw=1
+2026-10-16 15:26:59,731 DEBUG hs80.device: >> battery                  02 09 02 0f (64 B)
+2026-10-16 15:26:59,755 DEBUG hs80.device: << battery                  01 01 02 00 cc 01 00 00
+2026-10-16 15:26:59,793 DEBUG hs80.device: >> charge state             02 09 02 10 (64 B)
+2026-10-16 15:26:59,820 DEBUG hs80.device: << charge state             01 01 02 00 01 00 00 00
+15:26:59  #9    ok        46.0% charging                125 ms  chg_raw=1
+2026-10-16 15:27:09,822 DEBUG hs80.device: << drained                  01 00 12 00 00 00 00 00
+2026-10-16 15:27:09,822 DEBUG hs80.device: << drained                  01 01 12 00 00 00 00 00
+2026-10-16 15:27:09,855 DEBUG hs80.device: >> battery                  02 09 02 0f (64 B)
+2026-10-16 15:27:09,883 DEBUG hs80.device: << battery                  01 01 02 00 cc 01 00 00
+2026-10-16 15:27:09,904 DEBUG hs80.device: >> charge state             02 09 02 10 (64 B)
+2026-10-16 15:27:09,932 DEBUG hs80.device: << charge state             01 01 02 00 01 00 00 00
+15:27:09  #10   ok        46.0% charging                108 ms  chg_raw=1
+2026-10-16 15:27:19,967 DEBUG hs80.device: >> battery                  02 09 02 0f (64 B)
+2026-10-16 15:27:19,992 DEBUG hs80.device: << battery                  01 01 02 00 cc 01 00 00
+2026-10-16 15:27:20,012 DEBUG hs80.device: >> charge state             02 09 02 10 (64 B)
+2026-10-16 15:27:20,040 DEBUG hs80.device: << charge state             01 01 02 00 01 00 00 00
+15:27:20  #11   ok        46.0% charging                109 ms  chg_raw=1
+2026-10-16 15:27:30,051 DEBUG hs80.device: << drained                  01 00 12 00 00 00 00 00
+2026-10-16 15:27:30,051 DEBUG hs80.device: << drained                  01 01 12 00 00 00 00 00
+2026-10-16 15:27:30,083 DEBUG hs80.device: >> battery                  02 09 02 0f (64 B)
+2026-10-16 15:27:30,112 DEBUG hs80.device: << battery                  01 01 02 00 4e 02 00 00
+2026-10-16 15:27:30,133 DEBUG hs80.device: >> charge state             02 09 02 10 (64 B)
+2026-10-16 15:27:30,160 DEBUG hs80.device: << charge state             01 01 02 00 01 00 00 00
+15:27:30  #12   ok        59.0% charging                108 ms  chg_raw=1
+2026-10-16 15:27:40,198 DEBUG hs80.device: >> battery                  02 09 02 0f (64 B)
+2026-10-16 15:27:40,220 DEBUG hs80.device: << battery                  01 01 02 00 4e 02 00 00
+2026-10-16 15:27:40,255 DEBUG hs80.device: >> charge state             02 09 02 10 (64 B)
+2026-10-16 15:27:40,280 DEBUG hs80.device: << charge state             01 01 02 00 01 00 00 00
+15:27:40  #13   ok        59.0% charging                108 ms  chg_raw=1
+2026-10-16 15:27:50,322 DEBUG hs80.device: >> battery                  02 09 02 0f (64 B)
+2026-10-16 15:27:50,347 DEBUG hs80.device: << battery                  01 01 02 00 4e 02 00 00
+2026-10-16 15:27:50,383 DEBUG hs80.device: >> charge state             02 09 02 10 (64 B)
+2026-10-16 15:27:50,411 DEBUG hs80.device: << charge state             01 01 02 00 01 00 00 00
+15:27:50  #14   ok        59.0% charging                108 ms  chg_raw=1
+2026-10-16 15:28:00,420 DEBUG hs80.device: << drained                  01 00 12 00 00 00 00 00
+2026-10-16 15:28:00,420 DEBUG hs80.device: << drained                  01 01 12 00 00 00 00 00
+2026-10-16 15:28:00,454 DEBUG hs80.device: >> battery                  02 09 02 0f (64 B)
+2026-10-16 15:28:00,479 DEBUG hs80.device: << battery                  01 01 02 00 4e 02 00 00
+2026-10-16 15:28:00,499 DEBUG hs80.device: >> charge state             02 09 02 10 (64 B)
+2026-10-16 15:28:00,527 DEBUG hs80.device: << charge state             01 01 02 00 01 00 00 00
+15:28:00  #15   ok        59.0% charging                108 ms  chg_raw=1
+2026-10-16 15:28:10,574 DEBUG hs80.device: >> battery                  02 09 02 0f (64 B)
+2026-10-16 15:28:10,599 DEBUG hs80.device: << battery                  01 01 02 00 4e 02 00 00
+2026-10-16 15:28:10,634 DEBUG hs80.device: >> charge state             02 09 02 10 (64 B)
+2026-10-16 15:28:10,659 DEBUG hs80.device: << charge state             01 01 02 00 01 00 00 00
+15:28:10  #16   ok        59.0% charging                108 ms  chg_raw=1
+2026-10-16 15:28:20,673 DEBUG hs80.device: << drained                  01 00 12 00 00 00 00 00
+2026-10-16 15:28:20,673 DEBUG hs80.device: << drained                  01 01 12 00 00 00 00 00
+2026-10-16 15:28:20,706 DEBUG hs80.device: >> battery                  02 09 02 0f (64 B)
+2026-10-16 15:28:20,731 DEBUG hs80.device: << battery                  01 01 02 00 4e 02 00 00
+2026-10-16 15:28:20,751 DEBUG hs80.device: >> charge state             02 09 02 10 (64 B)
+2026-10-16 15:28:20,779 DEBUG hs80.device: << charge state             01 01 02 00 01 00 00 00
+15:28:20  #17   ok        59.0% charging                108 ms  chg_raw=1
+2026-10-16 15:28:30,823 DEBUG hs80.device: >> battery                  02 09 02 0f (64 B)
+2026-10-16 15:28:30,851 DEBUG hs80.device: << battery                  01 01 02 00 d0 02 00 00
+2026-10-16 15:28:30,872 DEBUG hs80.device: >> charge state             02 09 02 10 (64 B)
+2026-10-16 15:28:30,903 DEBUG hs80.device: << charge state             01 01 02 00 01 00 00 00
+15:28:30  #18   ok        72.0% charging                108 ms  chg_raw=1
+done: 18/18 polls OK, worst 170 ms

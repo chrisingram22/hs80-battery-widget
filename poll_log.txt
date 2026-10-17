@@ -1,0 +1,24 @@
+control collection: b'\\\\?\\HID#VID_1B1C&PID_0A97&MI_03&Col04#8&2cca5b2e&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}'
+polling every 30 s for 10 min; Ctrl-C to stop
+13:23:12 #  1  45.0%  raw=[01 01 02 00 c2 01 00 00]  234 ms charge=2(charge complete) mic_muted=True
+13:23:43 #  2  45.0%  raw=[01 01 02 00 c2 01 00 00]  223 ms charge=2(charge complete) mic_muted=True
+13:24:13 #  3  45.0%  raw=[01 01 02 00 c2 01 00 00]  215 ms charge=2(charge complete) mic_muted=True
+13:24:43 #  4  45.0%  raw=[01 01 02 00 c2 01 00 00]  215 ms charge=2(charge complete) mic_muted=True
+13:25:13 #  5  45.0%  raw=[01 01 02 00 c2 01 00 00]  208 ms charge=2(charge complete) mic_muted=True
+13:25:44 #  6  45.0%  raw=[01 01 02 00 c2 01 00 00]  223 ms charge=2(charge complete) mic_muted=True
+13:26:14 #  7  45.0%  raw=[01 01 02 00 c2 01 00 00]  227 ms charge=2(charge complete) mic_muted=False
+13:26:44 #  8  45.0%  raw=[01 01 02 00 c2 01 00 00]  227 ms charge=2(charge complete) mic_muted=False
+13:27:15 #  9  45.0%  raw=[01 01 02 00 c2 01 00 00]  211 ms charge=2(charge complete) mic_muted=False
+13:27:45 # 10  45.0%  raw=[01 01 02 00 c2 01 00 00]  243 ms charge=2(charge complete) mic_muted=False
+13:28:15 # 11  45.0%  raw=[01 01 02 00 c2 01 00 00]  239 ms charge=2(charge complete) mic_muted=False
+13:28:46 # 12  45.0%  raw=[01 01 02 00 c2 01 00 00] 1243 ms charge=2(charge complete) mic_muted=False
+13:29:17 # 13  45.0%  raw=[01 01 02 00 c2 01 00 00]  231 ms charge=2(charge complete) mic_muted=False
+13:29:47 # 14  45.0%  raw=[01 01 02 00 c2 01 00 00]  219 ms charge=2(charge complete) mic_muted=False
+13:30:18 # 15  45.0%  raw=[01 01 02 00 c2 01 00 00]  239 ms charge=2(charge complete) mic_muted=False
+13:30:48 # 16  45.0%  raw=[01 01 02 00 c2 01 00 00]  243 ms charge=2(charge complete) mic_muted=False
+13:31:18 # 17  45.0%  raw=[01 01 02 00 c2 01 00 00]  227 ms charge=2(charge complete) mic_muted=False
+13:31:49 # 18  45.0%  raw=[01 01 02 00 c2 01 00 00]  259 ms charge=2(charge complete) mic_muted=False
+13:32:19 # 19  45.0%  raw=[01 01 02 00 c2 01 00 00]  247 ms charge=2(charge complete) mic_muted=False
+13:32:50 # 20  45.0%  raw=[01 01 02 00 c2 01 00 00]  243 ms charge=2(charge complete) mic_muted=False
+13:33:20 # 21  45.0%  raw=[01 01 02 00 c2 01 00 00]  247 ms charge=2(charge complete) mic_muted=False
+done: 21/21 reads valid, worst round-trip 1243 ms, 0 reads over 5 s

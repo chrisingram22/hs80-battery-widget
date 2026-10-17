@@ -1,0 +1,31 @@
+14:31:27  #1    ok        42.0% not charging            125 ms
+14:32:27  #2    ok        42.0% charging                125 ms
+14:33:27  #3    ok        53.0% charging                141 ms
+14:34:27  #4    ok        64.0% charging                108 ms
+14:35:27  #5    ok        64.0% not charging            109 ms
+14:36:28  #6    ok        62.0% not charging            109 ms
+14:37:28  #7    ok        53.0% not charging            109 ms
+14:38:28  #8    ok        47.0% not charging            108 ms
+14:39:28  #9    ok        47.0% not charging            108 ms
+14:40:28  #10   ok        46.0% not charging            108 ms
+14:41:28  #11   ok        46.0% not charging            125 ms
+14:42:28  #12   ok        46.0% not charging            108 ms
+14:43:28  #13   ok        46.0% not charging            125 ms
+14:44:29  #14   ok        45.0% not charging            108 ms
+14:45:29  #15   ok        45.0% not charging            108 ms
+14:46:29  #16   ok        45.0% not charging            110 ms
+14:47:29  #17   ok        45.0% not charging            108 ms
+14:48:29  #18   ok        45.0% not charging            109 ms
+14:49:29  #19   ok        45.0% not charging            125 ms
+14:50:29  #20   ok        45.0% not charging            109 ms
+14:51:29  #21   ok        45.0% not charging            125 ms
+14:52:29  #22   ok        45.0% not charging            109 ms
+14:53:30  #23   ok        45.0% not charging            109 ms
+14:54:30  #24   ok        45.0% not charging            125 ms
+14:55:30  #25   ok        45.0% not charging            108 ms
+14:56:30  #26   ok        45.0% not charging            108 ms
+14:57:30  #27   ok        45.0% not charging            108 ms
+14:58:30  #28   ok        45.0% not charging            108 ms
+14:59:30  #29   ok        44.0% not charging            108 ms
+15:00:30  #30   ok        44.0% not charging            108 ms
+done: 30/30 polls OK, worst 141 ms
