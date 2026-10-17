@@ -9,8 +9,10 @@ and sends a toast when the battery gets low.
 
 ## Install
 
-1. Build or download `HS80BatteryWidget.exe` (see *Build* below), or run `.\build.ps1 -Install`
-   which copies it to `%LOCALAPPDATA%\Programs\HS80BatteryWidget\` and starts it.
+1. Download `HS80BatteryWidget.exe` from the [Releases page](https://github.com/chrisingram22/hs80-battery-widget/releases)
+   (one file, no installer; SmartScreen may warn because it is unsigned) and put it somewhere
+   permanent such as `%LOCALAPPDATA%\Programs\HS80BatteryWidget\`. Or build it yourself and run
+   `.\build.ps1 -Install`, which copies it there and starts it.
 2. Right-click the tray icon → **Start with Windows**. That creates
    `HS80 Battery Widget.lnk` in your Startup folder pointing at the exe you are running.
 3. Optional: **Show floating widget** for the always-on-top mini window. Drag it where you
